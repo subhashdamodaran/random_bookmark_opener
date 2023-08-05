@@ -4,7 +4,7 @@ The Random Bookmark Opener Chrome extension allows you to open a random bookmark
 
 ## Installation
 
-1. Download the ZIP file of the extension from the [Releases](https://github.com/your-username/your-repo/releases) section.
+1. Download the ZIP file of the extension from the [Releases](https://github.com/subhashdamodaran/random_bookmark_opener/archive/refs/heads/main.zip) section.
 2. Unzip the downloaded file to a location of your choice.
 3. Open Google Chrome and navigate to `chrome://extensions/`.
 4. Enable Developer mode by toggling the switch at the top-right corner.
