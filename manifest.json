@@ -4,11 +4,7 @@
     "description": "Open a random bookmark on browser startup",
     "version": "1.0",
     "permissions": [
-       "tabs",
-      "bookmarks",
-      "storage",
-      "bookmarks.read",
-      "tabs.create"
+     
     ],
     "background": {
       "service_worker": "background.js"
