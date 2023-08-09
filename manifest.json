@@ -5,7 +5,7 @@
   "version": "1.0",
   "permissions": ["storage"],
   "background": {
-    "service_worker": "service-worker.js"
+    "service_worker": "background.js"
   },
   "action": {
     "default_popup": "popup.html"
